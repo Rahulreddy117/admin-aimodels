@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ChatGPT",
+    "poweredBy": "From OpenAI",
+    "description": "Conversation, Coding, Writing",
+    "urlTemplate": "https://chat.openai.com/?q="
+  },
+  {
+    "name": "Gemini",
+    "poweredBy": "From Google",
+    "description": "Search, Reasoning, Coding",
+    "urlTemplate": "https://gemini.google.com/?q="
+  }
+]
+    
