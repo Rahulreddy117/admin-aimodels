@@ -3,13 +3,12 @@
     "name": "ChatGPT",
     "poweredBy": "From OpenAI",
     "description": "Conversation, Coding, Writing",
-    "urlTemplate": "https://chat.openai.com/?q="
+    "getUrl": "https://chatgpt.com"
   },
   {
-    "name": "Gemini",
-    "poweredBy": "From Google",
-    "description": "Search, Reasoning, Coding",
-    "urlTemplate": "https://gemini.google.com/?q="
+    "name": "Grok",
+    "poweredBy": "From xAI",
+    "description": "Real-Time News, X Integration",
+    "getUrl": "https://grok.com"
   }
 ]
-    
