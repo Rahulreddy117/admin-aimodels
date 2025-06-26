@@ -13,7 +13,7 @@
     "description": "The new version improves performance and adds exciting features.",
     "image": "https://c.ndtvimg.com/2025-06/vp9c3te8_shubhanshu-shukla_625x300_26_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=773,height=435",
     "date": "From The Times Of India",     
-    "url": "https://reactnative.dev/blog/2025/06/24/react-native-0.74",
+    "url": "https://reactnative.dev/blog/2025/06/24/react-native-0.74"
   },
     {
     "id": 3,
@@ -21,7 +21,7 @@
     "description": "The new version improves performance and adds exciting features.",
     "image": "https://static.toiimg.com/thumb/msid-122086306,imgsize-608700,width-400,resizemode-4/iuyhg-34.jpg",
     "date": "2025-06-24"   ,
-    "url": "https://timesofindia.indiatimes.com/some-article",
+    "url": "https://timesofindia.indiatimes.com/some-article"
   },
     {
     "id": 4,
@@ -29,6 +29,6 @@
     "description": "The new version improves performance and adds exciting features.",
     "image": "https://www.livemint.com/lm-img/img/2025/06/26/600x338/INDIA-CRASH-AIRINDIA-ANXIETY-0_1750926285333_1750926299411.JPG",
     "date": "2025-06-24"   ,
-    "url": "https://www.livemint.com/some-article" ,
+    "url": "https://www.livemint.com/some-article" 
   }
 ]
