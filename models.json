@@ -1,14 +1,16 @@
 [
   {
-    "name": "ChatGPT",
-    "poweredBy": "From OpenAI",
-    "description": "Conversation, Coding, Writing",
-    "getUrl": "https://chatgpt.com"
+    "id": 1,
+    "title": "ChatGPT launches new model",
+    "description": "OpenAI has released a new GPT model with faster response and better accuracy.",
+    "image": "https://example.com/image1.jpg",
+    "date": "2025-06-25"
   },
   {
-    "name": "Grok",
-    "poweredBy": "From xAI",
-    "description": "Real-Time News, X Integration",
-    "getUrl": "https://grok.com"
+    "id": 2,
+    "title": "React Native 0.74 Released",
+    "description": "The new version improves performance and adds exciting features.",
+    "image": "https://example.com/image2.jpg",
+    "date": "2025-06-24"
   }
 ]
