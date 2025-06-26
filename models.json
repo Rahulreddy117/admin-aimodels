@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "ChatGPT launches new model",
-    "description": "OpenAI has released a new GPT model with faster response and better accuracy.",
-    "image": "https://www.hindustantimes.com/ht-img/img/2025/06/26/550x309/rajnath_singh_sco_summit__1750920115434_1750920115724.jpg",
-    "date": "From Hindustan Times"  , 
-    "url": "https://www.openai.com/news/new-gpt-model"  
+    "title": "First Indian Astronaut Sets Foot on ISS",
+    "description": "Indian astronaut Shubhanshu Shukla has made history as the first Indian to board the International Space Station (ISS)",
+    "image": "https://images.pexels.com/photos/41162/moon-landing-apollo-11-nasa-buzz-aldrin-41162.jpeg",
+    "date": "From BBC"  , 
+    "url": "https://www.bbc.com/news/articles/crenw0nyqnqo"  
   },
   {
     "id": 2,
